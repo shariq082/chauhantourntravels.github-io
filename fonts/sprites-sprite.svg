@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Not Found</title>
+        <script type="text/javascript">
+            var sdkInstance = "appInsightsSDK"; window[sdkInstance] = "appInsights"; var aiName = window[sdkInstance], aisdk = window[aiName] || function (n) { var o = { config: n, initialize: !0 }, t = document, e = window, i = "script"; setTimeout(function () { var e = t.createElement(i); e.src = n.url || "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", t.getElementsByTagName(i)[0].parentNode.appendChild(e) }); try { o.cookie = t.cookie } catch (e) { } function a(n) { o[n] = function () { var e = arguments; o.queue.push(function () { o[n].apply(o, e) }) } } o.queue = [], o.version = 2; for (var s = ["Event", "PageView", "Exception", "Trace", "DependencyData", "Metric", "PageViewPerformance"]; s.length;)a("track" + s.pop()); var r = "Track", c = r + "Page"; a("start" + c), a("stop" + c); var u = r + "Event"; if (a("start" + u), a("stop" + u), a("addTelemetryInitializer"), a("setAuthenticatedUserContext"), a("clearAuthenticatedUserContext"), a("flush"), o.SeverityLevel = { Verbose: 0, Information: 1, Warning: 2, Error: 3, Critical: 4 }, !(!0 === n.disableExceptionTracking || n.extensionConfig && n.extensionConfig.ApplicationInsightsAnalytics && !0 === n.extensionConfig.ApplicationInsightsAnalytics.disableExceptionTracking)) { a("_" + (s = "onerror")); var p = e[s]; e[s] = function (e, n, t, i, a) { var r = p && p(e, n, t, i, a); return !0 !== r && o["_" + s]({ message: e, url: n, lineNumber: t, columnNumber: i, error: a }), r }, n.autoExceptionInstrumented = !0 } return o }(
+                {
+                    instrumentationKey: "cf6dcdbc-ca15-4fb2-8c04-9b647d0a179f"
+                }
+            ); (window[aiName] = aisdk).queue && 0 === aisdk.queue.length && aisdk.trackPageView({});
+        </script>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no minimal-ui">
+            <link rel="canonical" href="https://www.the-connaught.co.uk/page-not-found/" />
+    
+<!-- open graph meta tags -->
+<meta property="og:site_name" content="The Connaught" />
+<meta property="og:url" content="https://www.the-connaught.co.uk/page-not-found/" />
+<meta property="og:title" content="Page Not Found" />
+<meta property="og:description" />
+<meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.the-connaught.co.uk/globalassets/the-connaught.jpg" />
+    
+
+<meta name="twitter:card" content="summary_large_image"/>
+
+    <meta name="twitter:title" content="Page Not Found" />
+
+    <meta name="twitter:site" content="The Connaught" />
+
+    <meta name="twitter:creator" content="The Connaught" />
+
+
+
+
+
+
+    <meta name="twitter:image:alt" content="Page Not Found"/>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace("no-js", "js");
+
+        if (sessionStorage.getItem('loaded')) {
+            document.documentElement.classList.add('page-loaded-again');
+        }
+        else {
+            document.documentElement.classList.add('page-loaded');
+            sessionStorage.setItem('loaded', 'sessionLoaded');
+        }
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>
+            dataLayer = [{
+                'hotelAffiliation': 'The Connaught'
+            }];
+    </script>
+    <script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                                              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window, document, 'script', 'dataLayer', 'GTM-TNQB5G');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+    
+
+
+<link class="js-theme-css" rel="stylesheet" href="/Static/build/css/styles-connaught.css?v=2.5">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+window.jQuery || document.write('<script src=/Static/build/js/jquery-1.11.3.min.js><\/script>')
+</script>
+
+<!-- Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="/Static/build/js/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/Static/build/js/modernizr.js"></script>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+
+<link rel="shortcut icon" href="/Static/images/favicon/connaught/favicon.ico">
+<link rel="icon" sizes="16x16 32x32 64x64" href="/Static/images/favicon/connaught/favicon.ico">
+<link rel="icon" type="image/png" sizes="196x196" href="/Static/images/favicon/connaught/favicon-192.png">
+<link rel="icon" type="image/png" sizes="160x160" href="/Static/images/favicon/connaught/favicon-160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/Static/images/favicon/connaught/favicon-96.png">
+<link rel="icon" type="image/png" sizes="64x64" href="/Static/images/favicon/connaught/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/Static/images/favicon/connaught/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/Static/images/favicon/connaught/favicon-16.png">
+<link rel="apple-touch-icon" href="/Static/images/favicon/connaught/favicon-57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Static/images/favicon/connaught/favicon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Static/images/favicon/connaught/favicon-72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Static/images/favicon/connaught/favicon-144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/Static/images/favicon/connaught/favicon-60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/Static/images/favicon/connaught/favicon-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/Static/images/favicon/connaught/favicon-76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/Static/images/favicon/connaught/favicon-152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/Static/images/favicon/connaught/favicon-180.png">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="/Static/images/favicon/connaught/favicon-144.png">
+<meta name="msapplication-config" content="/Static/images/favicon/connaught/browserconfig.xml">
+    
+
+        <script>
+        var bookingMenuSelectedTab = 0;
+        var pegasusIBEUrl = 'https://www.reservations-page.com/';
+        var pegasusIBEChainID = 'C00769';
+    </script>
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"cf6dcdbc-ca15-4fb2-8c04-9b647d0a179f",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script></head>
+<body class="pagenotfoundpage connaught has-site-banner" data-timezone="Coordinated Universal Time">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNQB5G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+
+    
+
+
+    <div class="booking-menu booking-menu--hideAccessibility" role="dialog">
+    <div class="booking-menu__header">
+        
+<a href="/" class="site-logo">
+    <svg class="site-logo__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 62">
+        <title>Maybourne.Features.Common.Base.BasePageViewModel`1[Maybourne.Features.PageNotFound.PageNotFoundPage]</title>
+        <path fill="#501B4A" d="M117.8 44.8h-3.2v.4h.1c.6 0 1 .1 1 1.1v10.3c-.2-.2-11.2-11.9-11.2-11.9h-3.4v.4h.1c.6 0 1.1.1 1.4.4.7.6.7 1.8.7 2.5v10.6c0 1.3 0 1.5-1.1 1.5h-.1v.4h3.3v-.4h-.1c-.8-.1-1-.1-1-1.2V47.7c.2.2 12.4 13.3 12.4 13.3V46.5c0-1.1.3-1.3 1.1-1.3h.1l-.1-.4zM137.3 44.8h-3.2v.4h.1c.6 0 1 .1 1 1.1v10.3c-.2-.2-11.2-11.9-11.2-11.9h-3.4v.4h.1c.6 0 1.1.1 1.4.4.7.6.7 1.8.7 2.5v10.6c0 1.3 0 1.5-1.1 1.5h-.1v.4h3.3v-.4h-.1c-.8-.1-1-.1-1-1.2V47.7c.2.2 12.4 13.3 12.4 13.3V46.5c0-1.1.3-1.3 1.1-1.3h.1l-.1-.4zM69.9 37.7c-8.6 0-13.3 6.3-13.3 12.1 0 3.9 1.8 6.8 4.4 8.7 2.3 1.7 5.3 2.5 9.3 2.5 4.6 0 7.1-1.8 8.3-2l1.5-3.2v-.1l-.4-.1-.1.1C78.1 57.5 74.4 60 71 60c-9.3 0-11.3-8.6-11.3-11.9 0-4.5 3.1-9.4 9.8-9.4 5.3 0 7.8 3.6 7.8 3.6h.5l-1.1-3.1s-.4-.1-.8-.3c-.6-.1-2.8-1.2-6-1.2zM172.4 44.8H168v.4h.3c.7 0 .9.3.9 1.8v10.5c-.5.6-1.9 2.2-4.4 2.2-.6 0-2.7-.2-3.6-2.4-.3-.8-.4-1.8-.4-2.4v-8.6c0-1.1.5-1.1 1.1-1.1h.1v-.4h-4.4v.4h.1c.5 0 .7 0 .8.2.2.2.2.5.2 1v9.3c0 3.7 2.7 5 5.2 5 .8 0 3 0 5.2-2.3v2.2h3.2v-.4h-.1c-.4 0-.7-.1-.8-.2-.2-.2-.2-.6-.2-1.2V46.2c0-.9.4-.9 1-.9h.1l.1-.5zM200.7 44.8h-4.5v.4h.1c1 .1 1 .2 1 1.5v12.6c0 .3-.1.6-.2.7-.2.2-.5.2-.7.2h-.1v.4h4.5v-.4h-.1c-.4 0-.6-.1-.8-.2-.2-.2-.2-.7-.2-1.3v-5.9h7.7v5.8c0 1.5-.2 1.5-1 1.6h-.1v.4h4.5v-.4h-.1c-1 0-1-.4-1-1.5v-12c0-1.3 0-1.5 1-1.5h.1v-.4h-4.5v.4h.1c1 0 1 .4 1 1.5v5.4h-7.7v-6c0-1 .5-1 1-1h.2l-.2-.3zM142.4 59.6s2.1-5.3 2.2-5.4h4.9c0 .1 2 5 2 5 .1.2.2.6.2.8 0 0 0 .3-.4.3h-.1v.4h4.2v-.4h-.1c-.8 0-1.2-.7-1.5-1.4l-.1-.2-.1-.2-5.6-13.9h-.7L141.6 59c-.3.8-.5 1.3-1.4 1.3h-.1v.4h2.7v-.4h-.2s-.5 0-.2-.7zm6.8-6.2h-4.3c.1-.2.8-2.1.8-2.1s1.2-3.1 1.3-3.4c.1.4 2.1 5.4 2.2 5.5zM90.7 44.6c-4 0-8.2 4-8.2 8.2 0 5.1 3.2 8.2 8.2 8.2 4.2 0 8.2-4.1 8.2-8.2 0-5.1-3-8.2-8.2-8.2zm3.9 14.2c-2.8 1.8-6.6.8-8.9-2.8-2.3-3.5-1.7-7.5 1.1-9.3 2.8-1.8 6.7-.7 9 2.8s1.6 7.5-1.2 9.3zM226.8 46.5h.4l.9-2.2h-.4v.1c-.2.5-.5.5-1 .5H216c-.3 0-.6 0-.7-.1-.2-.1-.4-.5-.4-.5h-.4l.8 2.2h.4l-.1-.5c0-.4.4-.4.7-.4h3.8V59c0 1.1-.2 1.2-1.1 1.2h-.1v.4h4.7v-.4h-.1c-.5 0-.7 0-.9-.2s-.2-.6-.2-1.3V45.5h3.9c.4.1.6.2.5 1zM190.9 47.7h-.4c-1.2-1.5-3.2-2.4-5.3-2.4-4.5 0-6.5 4-6.5 7.8 0 4 2.2 5.6 2.9 6 1.7 1 4.1 1 4.4 1h.8c1.8 0 2-.1 2-1.2v-2.4c0-.4-.1-.7-.2-.8-.1-.1-.4-.2-.7-.2h-.1V55h4.5v.4h-.1c-1 0-1 .4-1 1.1V59c0 1 .2 1.3.8 1.3h.3v.4h-6.6c-1.2 0-3.4 0-5.5-1.3-2.5-1.6-4-4.2-4-6.8 0-4.8 3.7-8 9.2-8 1.6 0 3.2.3 5 1l.5 2.1zM23.8 44.8h-4.5v.4h.1c1 .1 1 .2 1 1.5v12.6c0 .3-.1.6-.2.7-.2.2-.5.2-.7.2h-.1v.4h4.5v-.4h-.1c-.4 0-.6-.1-.8-.2-.2-.2-.2-.7-.2-1.3v-5.9h7.7v5.8c0 1.5-.2 1.5-1 1.6h-.1v.4h4.5v-.4h-.1c-1 0-1-.4-1-1.5v-12c0-1.3 0-1.5 1-1.5h.1v-.4h-4.5v.4h.1c1 0 1 .4 1 1.5v5.4h-7.7v-6c0-1 .5-1 1-1h.2l-.2-.3zM40 46.7c0-1.3-.1-1.5-1.1-1.5v-.4H49v2.4h-.4c-.5-1.6-.4-1.6-1.5-1.6h-5v6.8h4.7c.6 0 1 0 1-.5h.4v1.7h-.4c-.1-.6-.4-.6-.9-.6h-4.8v4.7c0 2.1.5 2.2 2.1 2.2H47c1.9 0 2.4 0 2.6-1.6h.4v2.4H38.9v-.4c.6-.1 1.1 0 1.1-1V46.7zM17.8 40.3h.4l1.2-3h-.5v.1c-.3.7-.7.7-1.5.7H2.1c-.5 0-.8 0-1-.1-.4-.1-.5-.7-.5-.7H0l1.2 3h.4l-.1-.6c0-.5.5-.6 1.1-.6h5.6v19.2c0 1.6-.3 1.7-1.6 1.8h-.1v.4h6.6v-.4H13c-.8 0-1.1-.1-1.3-.3-.3-.3-.3-.8-.3-1.8V39.1h5.7c.6 0 1 0 .9 1.1l-.2.1z"/>
+        <g class="logo__crest" fill="#501B4A">
+            <path d="M97.8 20.2c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.2-.3-.3-.3zM97.8 21.7c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.2-.3-.3-.3zM98.4 20.8c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.1-.3-.3-.3zM97.1 21.1c-.2 0-.3.3-.3.5s.2.4.3.3c.2 0 .3-.3.3-.5.1-.2-.1-.4-.3-.3zM130.6 20.2c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5s.2-.3.3-.3zM130.6 21.7c.2 0 .3.3.3.5s-.1.4-.3.3c-.2 0-.3-.3-.3-.5s.2-.3.3-.3zM130 20.8c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5s.1-.3.3-.3zM131.3 21.1c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5-.1-.2.1-.4.3-.3zM118.6 22.9l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2-.3.1-.5.2-.7.4-.5-.4-1.1-.6-1.7-.6-.5 0-1.1.1-1.4.5-.2.3-.3.5-.3.9 0 .3.2.7.4.9.3.3.7.5 1.2.4.7 0 1.3-.3 1.7-.8.5.6 1.2.9 1.9.9.6 0 1.2-.1 1.8-.7.5.5 1.1.7 1.8.7.6 0 1.1-.1 1.8-.7.5.5 1 .7 1.7.7.6 0 1.1-.1 1.8-.7.5.5 1 .7 1.7.7.6 0 1.1-.1 1.8-.7.5.5 1.1.7 1.7.7.4 0 .8-.2 1-.5.2-.2.3-.5.3-.9 0-.8-.8-1.3-1.4-1.3-.6-.1-1.3.1-1.8.5-.5-.4-1.1-.6-1.7-.6-.2.3-.7.3-1.1.5zm-14.1 1.7c-.2-.2-.2-.4-.2-.6 0-.3.1-.5.3-.6.2-.2.6-.3 1-.3.6.1 1.1.4 1.6 1l-.3.3c-.1.1-.3.1-.6.1-.3-.1-.6-.2-.8-.4v.3c0 .2 0 .4.1.5v.1h-.1c-.5-.1-.8-.2-1-.4zm4.8.3c-.3-.1-.6-.2-.8-.5l-.3-.3-.6-.6h.1c.1-.1.2-.1.3-.1.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.2-.1.1c-.4.2-1 0-1.4-.4v.3c-.2.1-.2.3-.2.5zm2.9-.5l-.3-.3c-.2-.2-.4-.5-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.1-1 0-1.3-.5v.3c0 .2 0 .3.1.4v.1h-.2c-.2 0-.5-.1-.7-.4zm3.5 0l-.3-.3-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.1-1 0-1.3-.5v.3c0 .2 0 .3.1.4v.1h-.2c-.2 0-.4-.1-.7-.4zm3.5 0l-.3-.3c-.2-.2-.4-.5-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.2-1 0-1.3-.4v.3c0 .2 0 .3.1.4v.1h-.2c-.2-.1-.4-.2-.7-.5zm4.1.4c-.2-.1-.4-.2-.6-.4-.2-.1-.3-.3-.4-.4l-.5-.5h.1c.4-.2 1-.4 1.4-.3.6.1 1 .4 1 .9 0 .2 0 .4-.1.6-.3-.1-.6-.3-.7-.5v.3c-.2.1-.2.2-.2.3zM119.8 17c.1-.4.2-.9.4-1.4.2-.7.4-1.3.6-1.9.5-2 .7-3.4.6-4.5V9c0-.4-.1-.7-.2-1-.1-.6-.3-1.3-.3-1.3l-.5-1.2-1.5-2.4.3-.3c.9-.8.4.6 3.8.6-.6-.2-1.3-.8-1.8-1.3-.7-.7-.8-1-1.8-.9-.6 0-1.1-.2-1.6 0-.3.1-.5.3-.6.6-.6-.2-1.1-.4-1.7-.5-1.3-.3-2.6-.2-4-.2-.5 0-1.1 0-1.5.2-.5.2-.8.7-1.3 1-.4.3-.7.6-1.2.7-.5-.1-1 0-1.5 0-1.3.2-2.6.7-3.9 1-.3.1-1.4 0-1.5.4-.1.1-.1.4 0 .6.1.3.2.4.5.6.8.7 1.7 1.2 2.7 1.3.5.1.6.4 1.1.5s1.1.1 1.7.1 1.2.2 1.8.2c.6 0 1.2-.1 1.7-.1h.3c.4 0 1.1.2 2.2.5.7.2 1.3.8 1.3 1.8 0 .5-.1 1-.3 1.3 0 .1-.1.1-.2.2-2 2.1-2.8 3.3-3.5 5-.1.2-.2.4-.3.5-.1.2-.1.3-.2.4l-.3.6c-.9 1.7-2.3 2.1-3.8 1.6.3.9.9 1.7 2.7 1.7 1.5 0 2.8-.7 3.8-1.9v.4c-.1.4-.3.7-.6 1 .8-.3 1.5-.6 2.1-1.1.3.6.8 1.2 1.6 1.7.4-.3.9-.9 1.3-1.6.5.4 1.1.6 1.8.9-.3-.2-.4-.6-.5-1v-.3c.7 1.4 1.9 2.1 3 2.1 1.4 0 2.3-.8 2.5-1.4-1.5.2-3.3-.8-3.2-3zm.7 3.6c-.8 0-1.9-.5-2.6-1.8l-.6-1.3-.3 1.5v.4l-.6-.3-.4-.3-.1.2c-.5-.4-.9-.8-.7-1.5-.2.3-.4.7-.3 1-.1-.3-.4-.7-.4-1s.3-.7.4-1c-.3.3-.7.6-.8 1 0-1 .9-1.3 1.5-2-.5.2-1.1.5-1.4 1.1.5-1.1 1.6-1.5 2.4-2.3-.7.3-1.3.9-2.1.9.5-.3 1.1-.6 1.6-1 .6-.4 1-1 1.5-1.4-.5.4-1.2.8-1.9 1 .9-.5 1.8-1.6 2.2-2.6-.5.9-1.4 1.6-2.1 2.2-.8.6-1.6 1.1-2.3 1.8-.5.5-1 1.1-1.1 1.9 0 .3.1 1-.1 1.5v-.5l-.8.9c-.9 1.1-2.2 1.7-3.5 1.7-.7 0-1.2-.1-1.5-.3.6.1 1.2 0 1.9-.3 1.2-.4 2-1.5 2.7-2.5-.5.3-.9.7-1.2 1 .4-.9 1.2-1.5 1.7-2.3-.4.3-.8.5-1.1.9.6-.9 1.4-1.6 2.1-2.3-.6.1-1.1.6-1.5.9.5-.7 1.4-1.6 2.2-1.9-.7.2-1.3.5-1.8.9.5-.5 1-1.1 1.5-1.6.5-.2 1.4-.4 1.6-.8-.3.1-.5.2-.7.3.1-.1.3-.2.4-.3h.1c.4-.2 1.1-.5 1.3-1-.4.2-.9.5-1.4.5.4-.3.9-.5 1.3-.9.6-.5 1.1-1 1.5-1.5-.6.5-1.6 1.1-2.4 1.1.9-.4 1.7-1.2 2.2-2-.4.4-1.6 1-2.1.7.6-.2 1.1-.7 1.5-1.1-.4.2-1 .5-1.5.4.7-.4 1.4-.6 2-1.2-.4.2-.9.4-1.3.5-.1 0-.2 0-.3.1.4-.2.7-.4 1-.6-.3.2-.9.4-1.3.4.4-.2.6-.2 1-.5.3-.3.6-.6.6-1.2-.4 1-1.1 1.2-1.7 1.4.1-.1.2-.3.2-.5-.3.2-.8.6-1.2.5.2 0 .4-.5.2-.7.1.4-.5.7-.8.7.3-.3.2-.6 0-.8.2.4-.3.5-.5.7.3-.2.1-.5-.2-.7.2.3-.1.5-.4.7.2-.3 0-.5-.3-.6.3.3-.2.5-.4.6.1-.3.1-.6-.2-.7.1.2 0 .5-.2.6 0-.2-.1-.3-.3-.4-.1-.1-.2-.1-.3-.1H110.1c.1 0 .5.2.5.5 0 .2-.1.3-.3.5h-1.1s-.5.1-.8 0c-.3 0-.5-.1-.8-.1-.3-.1-.7-.1-1-.1h-.2c-.4 0-.9 0-1.3-.1-.1 0-.1 0-.2-.1h.3c.5-.1 1-.1 1.5-.1h1.6c.3 0 .6-.1.9-.1H109.8c-.3-.2-.7-.2-1.1-.2h-1.3c-.5 0-1 .1-1.6 0-.4 0-1.1 0-1.6-.1-.1 0-.2-.1-.3-.1-.6-.1-1.1-.3-1.7-.6.2 0 .4-.1.7-.3.3-.2 1.5-.9.4-.9-.4 0-.9 0-1.3-.1h.3l1.5-.4 2.4-.6.8-.1.7-.1c.5-.1.9-.4 1.3-.7l.2-.1.5-.4c.2-.2.5-.4.7-.5.3-.2.8-.1 1.2-.1h1.1c1 0 2 0 2.9.2.5.1 1.1.3 1.7.5l.3.1.2-.3c.1-.2.2-.3.4-.4.3-.1.5-.1.8 0h.7c.7 0 .8 0 1.2.5l.2.2.4.4c-.5-.1-.8-.3-1-.4-.4-.2-.8-.4-1.4.1-.1.1-.3.3-.4.5l-.3-.3.2.2c.5.7 1.3 2.2 1.4 2.3 0 .1.4 1.2.5 1.2.2.5.2.9.3 1.2V8c.1.3.1.6.1.9v.7c0 1.1-.2 2.4-.6 3.9-.2.6-.4 1.2-.6 1.9-.2.5-.3 1-.4 1.5v.1c0 1.2.4 2.2 1.3 2.7.4.3.9.5 1.3.5-.4.3-.8.4-1.4.4zM101.7 4.9c.2-.1.6-.1.9 0-.1.2-.7.1-.9 0z"/>
+            <path d="M107.4 3.8c-.4.1-.9.2-1.4.3-.7.2-.7.3-1 .5.4 0 1 .1 1.4 0-.2 0-.4-.1-.5-.2.7.1 1.3.1 2 0h-.8c.5-.1 1-.4 1.5-.6-.6.1-1.5.1-2.1.4.3-.2.6-.3.9-.4zM112.2 1.9c-.2 0-.4-.1-.6-.1-.2-.1-.3-.1-.5-.1h-.5c-.2 0-.4 0-.5.1s0 .2-.1.3c-.1.2-.8 1.3-1.4 1.4 1.1 0 1.7.6 1.7.6l-.3-.5h.3c.1 0 .1.1.2.1 0 0 0 .1.1.1l.1.2c.3.4.5.8 1 1 .8.3 1.6.3 2.4.1-.3 0-.6 0-.8-.1.5 0 1-.3 1.4-.6-.5 0-1.1.2-1.6.2.3-.3.9-.4 1.3-.5-.4-.1-.8.1-1.2 0 .4-.4 1.5-.1 1.7-.5h-2.3c.4-.3 1-.4 1.5-.4-.5-.1-1.1 0-1.5.1.3-.2.6-.2.9-.3-.3-.1-.8 0-1.2 0h-.2c-.4-.2-.9-.7-1.1-.9h.1c.2 0 .4-.1.6 0 .3.1 1.2.5 1.5.3-.1-.1-.3-.1-.4-.3l2.1.3c-.2-.1-.6-.2-.7-.4.5.2 1.1.3 1.6.5-.2-.2-.6-.3-.7-.4.6.2 1.3.3 1.9.4-.6-.4-1.6-.7-2.4-.7-.9 0-1.6.1-2.4.1zm-1.7.6c-.1.1-.2.2-.2.4s0 .3.1.4l.2.2-.1.1s-.1 0-.1-.1h-.1s-.3-.3-.3-.6.1-.5.3-.6c.2-.1.3-.1.3-.1l.1.2c.1 0-.1 0-.2.1zM134.3 22.5c0-.7-.2-1.3-.6-1.8-.8-1.1-2.2-1.6-3.9-2.3l-.7-.3c-.6-.2-1.2-.5-1.6-.8.3-.1.8-.2 2 .1 2.9.6 3.6-.3 4.2-1.6v-.2c-.1-1.5-.2-2.1.1-4.1l.2-1.5-.6 1.3c-.5 1.1-.9 2-3.7 1.4-2.4-.5-3.4.3-3.8.8-.3.4-.5.9-.4 1.5v.1c.1 1.5.1 2.4.1 3.1 0 1.1 0 1.6.5 2.6s1.5 1.5 2.8 2.2l.2.1c.4.2.8.4 1.2.5.7.3 1.3.6 1.8.9-1.5.7-3.3 1.4-5.3 1.9-5 1.4-9.4 2.1-12.5 2.1-3.3 0-7.7-.7-12.8-2.1-1.9-.5-3.6-1.3-5-1.9.5-.4 1.1-.6 1.8-.9.4-.2.8-.3 1.2-.5l.2-.1c1.3-.6 2.3-1.2 2.8-2.2s.5-1.5.5-2.6v-3.1c.1-.6-.1-1.1-.4-1.6-.4-.5-1.4-1.3-3.8-.8-2.7.6-3.1-.3-3.7-1.4l-.6-1.3.2 1.5c.3 2 .2 2.6.1 4.1v.2c.6 1.3 1.3 2.3 4.2 1.6 1.2-.3 1.8-.2 2.1-.1-.4.3-1 .5-1.6.8l-.7.3c-1.7.6-3.1 1.1-3.9 2.3-.4.5-.6 1.1-.6 1.7.1 2.3.1 3.7 0 4.5v.6c0 1.1.7 2.2 1.8 2.7h.1c1.6.8 3.6 1.5 5.4 2 5.2 1.4 9.5 2.1 12.8 2.1 3.7-.1 8.1-.8 12.8-2.1 1.8-.5 3.8-1.3 5.4-2h.1c1.1-.5 1.8-1.6 1.8-2.7v-.6c-.2-.7-.3-2-.2-4.4zm-8-8c.1-.4.4-.7.8-1 .2-.1.4-.2.6-.2.5-.1 1.2 0 1.9.1 2.1.5 3 .1 3.6-.6-.3.8-1 1-1.6 1.1.5.1.9.1 1.4-.1-.3.4-.5.5-1.1.7.4.1.6.2 1.2 0-.4.5-.8.6-1.6.7.6 0 1.2 0 1.6-.2-.4.4-.7.4-1.2.6.3.1.6.1 1 0-.3.3-.8.7-1.3.7.4 0 .9 0 1.3-.2-.2.4-1 .6-1 .6.3.1.6.1.8 0-.5.4-1.3.6-2.9.2-1.3-.3-2.1-.3-2.6.1l-.2-.2v-.1c.1-.1.1-.2.2-.2.2-.3.6-.6 1-.8-1.4.6-2.1.7-.5-.5-.5.2-.9.3-1.2.6.2-.6.6-1.1 1.3-1.5-.6.2-1.1.4-1.5.7.1-.4.4-.8.9-1.1-.4.3-.7.4-.9.6zm4.1 8.9c-.4-.2-.8-.3-1.2-.5l-.2-.1c-1-.5-1.8-.9-2.3-1.5.3.1.6.2 1 .2-.5-.2-.9-.6-1.2-1 .2.1.5.1.9.2-.6-.2-.9-.5-1.1-.9.4.3 1 .4 1.6.5-.8-.3-1.3-.7-1.6-1.2.4.2.8.3 1.3.4-.7-.3-1.2-.7-1.5-1.3.4.4 1.2.6 1.9.7-1.2-.4-1.6-1-1.9-1.9.5.7 1.4 1.3 2.8 1.8l.7.3c1.7.6 3 1.1 3.7 2.1l.3.6c-.3-.3-.7-.5-1.2-.7.4.3.7.6.9 1.1-.2-.1-.5-.2-.8-.3.5.3.8.7.9 1.1-.3-.3-.9-.5-1.5-.7.7.4 1.1.9 1.3 1.5-.3-.3-.7-.5-1.2-.6 1.6 1.1.9 1.1-.5.5.5.3.9.6 1.1 1-.1.1-.2.1-.3.2-.4-.9-1.1-1.2-1.9-1.5zm-31.7-6.3c-1.6.4-2.4.2-2.9-.2h.8s-.9-.2-1.1-.6c.4.2.8.2 1.3.2-.5-.1-1-.4-1.3-.7.4.1.6.1 1 0-.5-.2-.8-.2-1.2-.6.4.2 1 .2 1.6.2-.8-.1-1.2-.3-1.6-.7.5.2.7.1 1.2 0-.6-.2-.8-.3-1.1-.7.6.2.9.2 1.4.1-.6-.1-1.3-.3-1.6-1.1.6.7 1.5 1.1 3.6.6.7-.2 1.4-.2 1.9-.1.2 0 .4.1.6.2.4.3.7.5.8 1-.2-.1-.5-.3-.9-.4.5.3.8.7.9 1.1-.3-.3-.9-.5-1.5-.7.7.4 1.1.9 1.3 1.5-.3-.3-.7-.5-1.2-.6 1.6 1.1.9 1.1-.5.5.5.3.8.5 1 .8.1.1.2.3.2.3-.1.1-.2.1-.2.2-.3-.6-1.2-.6-2.5-.3zm-3.7 4c.8-1 2-1.5 3.7-2.1l.7-.3c1.3-.5 2.2-1.1 2.8-1.8-.3.8-.7 1.4-1.9 1.9.7-.1 1.5-.3 1.9-.7-.3.6-.7 1-1.5 1.3.5-.1.9-.2 1.3-.4-.3.5-.8 1-1.6 1.2.6-.1 1.2-.2 1.6-.5-.2.4-.5.7-1.1.9.4-.1.7-.1.9-.2-.3.4-.7.8-1.2 1 .4 0 .7-.1 1-.2-.5.6-1.3 1-2.3 1.5l-.2.1c-.4.2-.8.4-1.2.5-.8.3-1.5.7-2.1 1.2-.1-.1-.2-.1-.3-.2.2-.3.6-.7 1.1-1-1.4.6-2.1.7-.5-.5-.5.2-.9.4-1.2.6.2-.6.6-1.1 1.3-1.5-.6.2-1.1.4-1.5.7.1-.4.4-.8.9-1.1-.4.1-.6.2-.8.3.2-.4.5-.8.9-1.1-.5.2-.9.4-1.2.7.3 0 .4-.2.5-.3zm37.3 8.6s-.1.1 0 0c-1.6.8-3.6 1.5-5.4 2-4.7 1.3-9.1 2-12.7 2.1-3.3 0-7.6-.6-12.7-2.1-1.8-.5-3.8-1.2-5.4-2H96c-.9-.4-1.5-1.3-1.5-2.2V27c0-.6.1-1.5 0-2.9.3.4.7.8 1.3 1h.2c1.5.6 3.3 1.4 5.3 2 5.1 1.4 9.5 2.2 12.9 2.2 3.2 0 7.6-.7 12.6-2.1 2-.5 3.9-1.3 5.5-2h.2c.5-.2 1-.6 1.3-1v3.4c0 .8-.6 1.7-1.5 2.1z"/>
+            <path d="M119.4 12.1c.1-.2.2-.5.3-.7-.2.2-.4.4-.6.5.2-.3.3-.6.5-1 .1-.3.1-.6.1-1 0-.2-.1-.5-.4-.8.4.9.1 1.4-.3 2.5-.1.2-.3.8-.5 1-.2.4-.5.8-.7 1.2-.4.7-.6 1.6-.4 2.4.1.4.2.6.4.9.2.2.4.5.7.7-.1-.1-.1-.2-.1-.3-.1-.2-.2-.4-.2-.6v-.4c.1-.4.3-.8.4-1.2-.4.1-.8.7-.8 1.1-.1-.5 0-.9.2-1.3.2-.5.7-.9.9-1.3-.3.1-1 .6-1.2.9 0-.4.6-1 .9-1.3.2-.3.5-.7.7-1-.3.1-.5.4-.8.5.4-.3.7-.5.9-.8zM98.2 29.4v-.2h-.1c-.1 0-.1-.1-.1-.1v-1.6c.2.1.2.1.3.2.1.1.2.2.2.4 0 .1 0 .2-.1.2-.1.1-.2.1-.2 0h-.1v.1h.1c.2.1.4.1.5 0s.2-.2.2-.4c0-.5-.4-.6-.6-.7h-.1l-.6-.2v.2h.1c.1 0 .1.1.1.1V29.1h-.1v.2l.5.1zM101 29.8v.1c0 .2-.1.2-.3.2l-.2-.1c-.2-.1-.3-.1-.3-.3v-1.4s0-.1.1-.1h.1V28c-.2-.1-.4-.1-.7-.2v.2h.1s.1 0 .1.1v1.6s0 .1-.1.1h-.1v.2c.4.1 1 .3 1.4.4l-.1-.6zM101.9 30.4c0 .1-.1.1-.1.1h-.1v.2c.2 0 .5.1.5.1v-.2h-.1v-.1l.1-.3.7.2.1.4v.1h-.1v.2c.3.1.7.2.7.2v-.2h-.1c-.1 0-.1-.1-.1-.2l-.7-2h-.1c0-.2-.7 1.5-.7 1.5zm.7-1s.2.7.2.8l-.5-.1c0-.1.3-.7.3-.7zM113.1 32.4l.1-1.7c0-.1 0-.1-.1-.1h-.1v-.2h1.3v.4h-.1v-.1c0-.1-.1-.1-.2-.1h-.5v.7h.5v-.1h.1v.4h-.1v-.1h-.5v.6c0 .2 0 .2.2.2h.3c.2 0 .2 0 .3-.1v-.1h.1v.4H113l.1-.1zM104.4 30.5c.1.6.6 1 1.2 1 .3 0 .4 0 .6-.1l.2-.3-.1-.1c-.1.1-.3.2-.6.2-.4 0-.8-.3-.8-.9 0-.5.2-.9.7-.9.4 0 .6.3.6.3h.2l-.1-.4h-.1c-.2-.1-.3-.2-.6-.2-.8.2-1.3.8-1.2 1.4zM108.8 30.5V30c-.5-.1-1.3-.2-1.3-.2v.2h.1c.1 0 .1 0 .1.1v1.6s0 .1-.1.1h-.1v.2c.5.1 1 .2 1.4.2v-.4h-.1v.1c0 .1-.1.1-.2.1l-.4-.1c-.2 0-.2-.1-.2-.3v-.5l.5.1v.1h.1v-.4h-.1v.1c-.1 0-.5-.1-.5-.1v-.7l.5.1c.1 0 .1 0 .3.2l-.1.1.1-.1zM112.1 32.2s-.1.1-.2.1-.2-.1-.3-.2c-.1-.2-.4-.7-.5-.8.2-.1.4-.2.4-.5 0-.4-.3-.6-.8-.6l-.6-.1v.2h.1s.1 0 .1.1V32c0 .1 0 .1-.1.1h-.1v.2c.2 0 .4.1.6.1v-.2h-.1s-.1 0-.1-.1v-.7h.2s.3.6.5.8c.1.2.3.3.5.3s.4-.1.4-.1v-.2zm-1.5-1.7s.1 0 0 0c.3 0 .5.2.5.5 0 .1-.1.4-.4.3h-.1v-.8zM117.5 30.5h.3c.1.1.2.2.2.3 0 .2-.2.4-.4.4h-.1v.2h.1c.3 0 .5-.1.6-.2s.1-.3.1-.4c0-.2-.1-.3-.1-.3-.2-.2-.5-.1-.6-.1l-.6.1v.2h.1s.1 0 .1.1v1.6s0 .1-.1.1h-.1v.2l.7-.1v-.2h-.1c-.1 0-.1 0-.1-.1-.1-.1-.1-1.8 0-1.8zM120.8 31.9v-.6h-.2c0 .3-.1.3-.2.4h-.4V30.1c0-.1 0-.1.1-.1h.1v-.2l-.7.1v.2h.1s.1 0 .1.1v1.6c0 .1 0 .1-.1.1h-.1v.2c.5-.1.8-.1 1.3-.2zM122.1 31.1c.1 0 .7-.1.7-.1l.1.3v.1h-.1v.2l.6-.1v-.2h-.1c-.1 0-.1 0-.1-.1l-.7-1.7h-.1l-.7 2c0 .1-.1.1-.1.2h-.1v.2l.5-.1v-.2h-.1v-.1l.2-.4zm.3-1l.3.7s-.5.1-.6.1c.1-.1.3-.8.3-.8zM125.3 28.8c-.7.2-1.1.7-1.1 1.3 0 .6.6 1 1.2.8.3-.1.4-.2.6-.3l.2-.4h-.2c-.1.1-.2.4-.6.5-.6.1-.9-.2-.9-.6 0-.5.2-.9.7-1.1.4-.1.6.1.6.1h.1l-.1-.3h-.1c0-.1-.1-.1-.4 0zM128.4 30v-.5h-.1v.1c0 .2-.1.2-.3.3l-.3.1c-.1 0-.2 0-.2-.2v-.5s.4-.1.5-.2h.1v.1h.1v-.4h-.1v.2c-.1 0-.4.1-.5.2v-.7l.5-.2c.1 0 .1 0 .1.1v.1h.1V28c-.4.1-.8.3-1.3.4v.2h.1s.1 0 .1.1v1.6c0 .1 0 .1-.1.1h-.1v.2c.6-.3 1-.5 1.4-.6zM130.9 27v.4l-.1.1v-.1s0-.1-.1-.1c-.1.1-.4.1-.4.1V29c0 .1 0 .1.1.1h.1v.2l-.7.3v-.2h.1c.1 0 .1-.1.1-.1v-1.6s-.2.1-.4.1c-.1 0-.1.1-.1.1v.1l-.2.1v-.4c.5-.3.9-.5 1.6-.7z"/>
+        </g>
+    </svg>
+</a>
+
+        <button class="btn btn--close-menu js-booking-close" aria-label="Close booking menu" aria-keyshortcuts="Escape">
+            <svg role="img" aria-label="Back to rooms & suites" class="close-menu__svg">
+                <use xlink:href="/Static/images/sprites/symbol.svg#close"></use>
+            </svg>
+        </button>
+    </div>
+
+    <div class="booking-menu-tabs">
+        <div class="booking-menu-tabs__heading" role="tablist">
+            <a href="#" role="tab" aria-controls="BookingRoom" aria-expanded="true" class="booking-menu-tabs__link is-active">Book rooms <br class="visible-xs" />&amp; suites</a>
+            
+            <a href="#" role="tab" aria-controls="BookingDining" aria-expanded="false" class="booking-menu-tabs__link">Make a dining <br class="visible-xs" />reservation</a>
+        </div>
+
+        <div class="booking-menu-tabs__content">
+            <div id="BookingRoom" role="tabpanel" class="booking-menu-tabs__body booking-menu-tabs__body--room is-active">
+                <div id="room-booking">
+                        <roombooking :max-adults="2" :default-adults="2" :max-children="2" :default-children="0" :max-capacity="3" :max-rooms="4"></roombooking>
+                </div>
+            </div>
+            <div id="BookingDining" role="tabpanel" class="booking-menu-tabs__body booking-menu-tabs__body--dining">
+                <div class="container">
+                    <div class="headerChecker">
+                        <div class="col-left">
+    <h3 class="room-booking__title">Choose your desired reservation and date</h3>
+
+    <label for="restaurant-booking" class="visually-hidden">Choose a restaurant</label>
+    <select class="js-restaurant-booking-restaurant" id="SelectedRestaurant" name="SelectedRestaurant"><option value="">Restaurant</option>
+<option value="HeleneDarrozeatTheConnaught">H&#233;l&#232;ne Darroze at The Connaught</option>
+<option value="JeanGeorgesattheConnaught">Jean-Georges at The Connaught</option>
+</select>
+
+    <label for="restaurant-sitting" class="visually-hidden">Your sitting</label>
+    <select disabled id="restaurant-sitting" name="restaurant-booking-resdiary" class="js-restaurant-booking-sitting">
+        <option disabled="disabled" selected="selected" title="Your sitting">Your sitting</option>
+    </select>
+
+    <div class="testDiv">
+        <label for="restaurant-guests" class="visually-hidden">Number of guests</label>
+        <select disabled id="restaurant-guests" name="restaurant-booking-resdiary" class="js-restaurant-booking-guests">
+            <option disabled="disabled" selected="selected" title="Number of guests">Number of guests</option>
+        </select>
+    </div>
+
+
+    <div class="js-additionaltext"></div>
+</div>
+
+<div class="col-right">
+    <div class="dining-date-exceededFuture dining-date-exceededFuture--above"></div>
+    <div id="dining-date" class="themed-calendar"></div>
+    <p class="text-center">
+        <button class="btn btn--primary js-check-availability js-disabled" disabled>Check Availability</button>
+    </p>
+    <div role="status" aria-live="polite" aria-atomic="true" class="visually-hidden" id="diningreservation-booking__status-message"></div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="hotel-menu" class="hotel-menu">
+        <div class="hotel-menu__inner">
+            <p class="hotel-menu__title h2">Book your stay</p>
+            <ul class="hotel-menu__list">
+                <li class="hotel-menu__list-item"><a class="hotel-menu__list-link" target="_blank" href="https://www.claridges.co.uk/">Claridge's</a></li>
+                <li class="hotel-menu__list-item"><a class="hotel-menu__list-link" target="_blank" href="/">The Connaught</a></li>
+                <li class="hotel-menu__list-item"><a class="hotel-menu__list-link" target="_blank" href="https://www.the-berkeley.co.uk/">The Berkeley</a></li>
+                <li class="hotel-menu__list-item"><a class="hotel-menu__list-link" target="_blank" href="https://www.maybournebeverlyhills.com/">The Maybourne Beverly&nbsp;Hills</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<template id="roombooking">
+    <div class="room-booking">
+            <div class="booking-notice__wrapper">
+                <div class="booking-notice text-center"><p><strong>In line with government regulations, The Connaught will remain open to accommodate guests travelling for specific purposes only. Please view more <a href="/an-update-from-the-connaught/">here.</a></strong></p>
+<p>Stays until and including 31 March 2021 will be subject to VAT at 5%, and VAT will return to 20% from 1 April 2021.</p></div>
+            </div>
+        <form v-on:submit.prevent>
+            <div class="container-fluid">
+                <div class="room-booking__calendar">
+                    <h3 class="room-booking__title text-center">
+                        Select dates
+                    </h3>
+                    <date-picker @update-date="updateDate" date-format="yy-mm-dd" class="themed-calendar"></date-picker>
+                    <div class="room-booking__dates-selected">
+                        <p><strong>Check-in:</strong> <span class="date__start-date" id="date__start-date">Please select your date</span></p>
+                        <p><strong>Check-out:</strong> <span class="date__end-date" id="date__end-date">Please select your date</span></p>
+                    </div>
+                    <div role="status" aria-live="polite" aria-atomic="true" class="visually-hidden" id="room-booking__status-message"></div>
+                </div>
+                <div class="room-booking__room-booking">
+                    <h3 class="room-booking__title text-center">
+                        Select rooms &amp; occupancy
+                    </h3>
+
+                    <div class="booking-table">
+                        <div v-for="(room, key) in rooms">
+
+                            <div class="booking-table__row">
+                                <div class="booking-table__room">
+                                    <span>Room {{key + 1}}</span>
+                                </div>
+
+                                <div class="booking-table__adults">
+                                    <div class="room-booking__dropdown">
+                                        <label v-if="key == 0">Adults</label>
+                                        <fieldset role="combobox"  aria-haspopup="true" aria-expanded="false" aria-disabled="false" class="room-booking__form-group" id="'radiogroup-adult' + key" @change="onChange($event)">
+                                            <legend :id="'adult-dropdown-label' + key" class="visually-hidden">Select number of adults staying in room {{key + 1}}</legend>
+                                            <button @keydown="arrowNavigationInit" aria-haspopup="listbox" :aria-labelledby="'adult-dropdown-label' + key" @click="toggleOpenFilter" class="room-booking__filter-btn">
+                                                {{ room.adult }}
+                                                <span class="room-booking__arrow-icon-wrapper" role="presentation">
+                                                    <svg role="img" viewBox="0 0 47 57" version="1.1" xmlns="http://www.w3.org/2000/svg" class="room-booking__arrow-icon">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/Static/images/sprites/symbol.svg#arrow-down-large"></use>
+                                                    </svg>
+                                                </span>
+                                            </button>
+                                            <div class="room-booking__dropdown-options" :aria-labelledby="'adult-dropdown-label' + key" role="listbox" aria-hidden="true">
+                                                <div class="room-booking__form-item" v-for="(option , radioKey) in maxAdults">
+                                                    <div class="room-booking__radio-item">
+                                                        <label :for="'rbOption' + radioKey + key">
+                                                            <input role="option" type="radio" @keydown="arrowNavigationToggle" :id="'rbOption' + radioKey + key" :name="'radiogroup-adult' + key" :value="radioKey + 1" v-model="room.adult" />{{ radioKey + 1 }}
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                </div>
+
+                                <div class="booking-table__children">
+                                    <div class="room-booking__dropdown">
+                                        <label v-if="key == 0">Children</label>
+                                        <fieldset role="combobox"  aria-haspopup="true" aria-expanded="false" aria-disabled="false" class="room-booking__form-group" :id="'radiogroup-child' + key" @change="onChange($event)">
+                                            <legend :id="'child-dropdown-label' + key" class="visually-hidden">Select number of children staying in room {{key + 1}}</legend>
+                                            <button @keydown="arrowNavigationInit" aria-haspopup="listbox" :aria-labelledby="'child-dropdown-label' + key" @click="toggleOpenFilter" class="room-booking__filter-btn">
+                                                {{ room.children }}
+                                                <span class="room-booking__arrow-icon-wrapper" role="presentation">
+                                                    <svg role="img" viewBox="0 0 47 57" version="1.1" xmlns="http://www.w3.org/2000/svg" class="room-booking__arrow-icon">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/Static/images/sprites/symbol.svg#arrow-down-large"></use>
+                                                    </svg>
+                                                </span>
+                                            </button>
+                                            <div class="room-booking__dropdown-options" :aria-labelledby="'child-dropdown-label' + key" role="listbox" aria-hidden="true">
+                                                <div class="room-booking__form-item" v-for="(option , radioKey) in maxChildren">
+                                                    <div class="room-booking__radio-item">
+                                                        <label :for="'rbChildOption' + key + radioKey">
+                                                            <input role="option" type="radio" @keydown="arrowNavigationToggle" :id="'rbChildOption' + key +  radioKey" :name="'radiogroup-child' + key" :value="radioKey" v-model="room.children" />{{ radioKey }}
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                </div>
+
+                                <div class="room-booking__remove-room">
+                                    <button class="btn btn--remove-room" v-if="key > 0" @click="removeRoom(room,key)">
+                                        <svg role="img" aria-label="remove room" class="close-menu__svg">
+                                            <title>remove room</title>
+                                            <use xlink:href="/Static/images/sprites/symbol.svg#close"></use>
+                                        </svg>
+                                    </button>
+                                </div>
+
+
+                            </div>
+
+
+                        </div> <!-- end loop -->
+                        <div class="room-booking__add-room">
+                            <button class="btn btn--add-room" v-if="rooms.length <= 3" @click="addRoom">Add Room</button>
+                        </div>
+                    </div>
+                    
+                    <div class="booking-alert" role="status" aria-live="polite" aria-atomic="true" :class="{ 'visually-hidden': !showMaxPeopleInfo }">
+                        <p><span v-if="showMaxPeopleInfo">To book a room for 3 or more guests, please call <a href="tel:+442071078945">+44 (0)20 7107 8945</a></span></p>
+                    </div>
+
+                    <button class="btn btn--primary btn--room-booking" @click="checkAvailability" :disabled='showMaxPeopleInfo == true || endDate == null'>Check Availability</button>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</template>
+
+    <div class="page-wrapper" id="page-wrapper">
+
+        <!-- Cookie Panel -->
+        <div class="cookie">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="padded-area-xs col-sm-10 col-sm-offset-1">
+
+                <div class="cookie__inner">
+
+                    <div class="cookie__content">
+                        <div class="cookie__text"><p>To ensure you receive the best user experience, our site will use cookies to store information in your browser.<br />To find out more view our <a href="/cookie-policy/" target="_blank">Cookie Policy</a>, continued use of this site indicates you have accepted this policy.</p></div>
+                    </div>
+
+                    <div class="cookie__btn-wrapper">
+                        <button class="btn btn--primary cookie__btn js-cookie-btn">ACCEPT &amp; CLOSE</button>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        <!-- end: Cookie Panel -->
+
+        <div class="fixed-header">
+    <!-- Site Wide Banner -->
+    <div class="site-wide-banner">
+        <a class="banner-link" href="/an-update-from-the-connaught/" target="_self">
+            <p class="standout"><strong><span style="text-decoration: underline;">In line with government regulations, The Connaught will remain open to accommodate guests travelling for specific purposes only. Please view more here.</span></strong></p>
+        </a>
+
+    
+</div>
+    <!-- End: Site Wide Banner -->
+
+    <header class="header" id="header">
+        <button id="nav-icon3" class="btn btn--menu js-site-menu-btn" aria-label="Open navigation menu">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span class="menu-text">Menu</span>
+        </button>
+
+
+<a href="/" class="site-logo">
+    <svg class="site-logo__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 62">
+        <title>The Connaught</title>
+        <path fill="#501B4A" d="M117.8 44.8h-3.2v.4h.1c.6 0 1 .1 1 1.1v10.3c-.2-.2-11.2-11.9-11.2-11.9h-3.4v.4h.1c.6 0 1.1.1 1.4.4.7.6.7 1.8.7 2.5v10.6c0 1.3 0 1.5-1.1 1.5h-.1v.4h3.3v-.4h-.1c-.8-.1-1-.1-1-1.2V47.7c.2.2 12.4 13.3 12.4 13.3V46.5c0-1.1.3-1.3 1.1-1.3h.1l-.1-.4zM137.3 44.8h-3.2v.4h.1c.6 0 1 .1 1 1.1v10.3c-.2-.2-11.2-11.9-11.2-11.9h-3.4v.4h.1c.6 0 1.1.1 1.4.4.7.6.7 1.8.7 2.5v10.6c0 1.3 0 1.5-1.1 1.5h-.1v.4h3.3v-.4h-.1c-.8-.1-1-.1-1-1.2V47.7c.2.2 12.4 13.3 12.4 13.3V46.5c0-1.1.3-1.3 1.1-1.3h.1l-.1-.4zM69.9 37.7c-8.6 0-13.3 6.3-13.3 12.1 0 3.9 1.8 6.8 4.4 8.7 2.3 1.7 5.3 2.5 9.3 2.5 4.6 0 7.1-1.8 8.3-2l1.5-3.2v-.1l-.4-.1-.1.1C78.1 57.5 74.4 60 71 60c-9.3 0-11.3-8.6-11.3-11.9 0-4.5 3.1-9.4 9.8-9.4 5.3 0 7.8 3.6 7.8 3.6h.5l-1.1-3.1s-.4-.1-.8-.3c-.6-.1-2.8-1.2-6-1.2zM172.4 44.8H168v.4h.3c.7 0 .9.3.9 1.8v10.5c-.5.6-1.9 2.2-4.4 2.2-.6 0-2.7-.2-3.6-2.4-.3-.8-.4-1.8-.4-2.4v-8.6c0-1.1.5-1.1 1.1-1.1h.1v-.4h-4.4v.4h.1c.5 0 .7 0 .8.2.2.2.2.5.2 1v9.3c0 3.7 2.7 5 5.2 5 .8 0 3 0 5.2-2.3v2.2h3.2v-.4h-.1c-.4 0-.7-.1-.8-.2-.2-.2-.2-.6-.2-1.2V46.2c0-.9.4-.9 1-.9h.1l.1-.5zM200.7 44.8h-4.5v.4h.1c1 .1 1 .2 1 1.5v12.6c0 .3-.1.6-.2.7-.2.2-.5.2-.7.2h-.1v.4h4.5v-.4h-.1c-.4 0-.6-.1-.8-.2-.2-.2-.2-.7-.2-1.3v-5.9h7.7v5.8c0 1.5-.2 1.5-1 1.6h-.1v.4h4.5v-.4h-.1c-1 0-1-.4-1-1.5v-12c0-1.3 0-1.5 1-1.5h.1v-.4h-4.5v.4h.1c1 0 1 .4 1 1.5v5.4h-7.7v-6c0-1 .5-1 1-1h.2l-.2-.3zM142.4 59.6s2.1-5.3 2.2-5.4h4.9c0 .1 2 5 2 5 .1.2.2.6.2.8 0 0 0 .3-.4.3h-.1v.4h4.2v-.4h-.1c-.8 0-1.2-.7-1.5-1.4l-.1-.2-.1-.2-5.6-13.9h-.7L141.6 59c-.3.8-.5 1.3-1.4 1.3h-.1v.4h2.7v-.4h-.2s-.5 0-.2-.7zm6.8-6.2h-4.3c.1-.2.8-2.1.8-2.1s1.2-3.1 1.3-3.4c.1.4 2.1 5.4 2.2 5.5zM90.7 44.6c-4 0-8.2 4-8.2 8.2 0 5.1 3.2 8.2 8.2 8.2 4.2 0 8.2-4.1 8.2-8.2 0-5.1-3-8.2-8.2-8.2zm3.9 14.2c-2.8 1.8-6.6.8-8.9-2.8-2.3-3.5-1.7-7.5 1.1-9.3 2.8-1.8 6.7-.7 9 2.8s1.6 7.5-1.2 9.3zM226.8 46.5h.4l.9-2.2h-.4v.1c-.2.5-.5.5-1 .5H216c-.3 0-.6 0-.7-.1-.2-.1-.4-.5-.4-.5h-.4l.8 2.2h.4l-.1-.5c0-.4.4-.4.7-.4h3.8V59c0 1.1-.2 1.2-1.1 1.2h-.1v.4h4.7v-.4h-.1c-.5 0-.7 0-.9-.2s-.2-.6-.2-1.3V45.5h3.9c.4.1.6.2.5 1zM190.9 47.7h-.4c-1.2-1.5-3.2-2.4-5.3-2.4-4.5 0-6.5 4-6.5 7.8 0 4 2.2 5.6 2.9 6 1.7 1 4.1 1 4.4 1h.8c1.8 0 2-.1 2-1.2v-2.4c0-.4-.1-.7-.2-.8-.1-.1-.4-.2-.7-.2h-.1V55h4.5v.4h-.1c-1 0-1 .4-1 1.1V59c0 1 .2 1.3.8 1.3h.3v.4h-6.6c-1.2 0-3.4 0-5.5-1.3-2.5-1.6-4-4.2-4-6.8 0-4.8 3.7-8 9.2-8 1.6 0 3.2.3 5 1l.5 2.1zM23.8 44.8h-4.5v.4h.1c1 .1 1 .2 1 1.5v12.6c0 .3-.1.6-.2.7-.2.2-.5.2-.7.2h-.1v.4h4.5v-.4h-.1c-.4 0-.6-.1-.8-.2-.2-.2-.2-.7-.2-1.3v-5.9h7.7v5.8c0 1.5-.2 1.5-1 1.6h-.1v.4h4.5v-.4h-.1c-1 0-1-.4-1-1.5v-12c0-1.3 0-1.5 1-1.5h.1v-.4h-4.5v.4h.1c1 0 1 .4 1 1.5v5.4h-7.7v-6c0-1 .5-1 1-1h.2l-.2-.3zM40 46.7c0-1.3-.1-1.5-1.1-1.5v-.4H49v2.4h-.4c-.5-1.6-.4-1.6-1.5-1.6h-5v6.8h4.7c.6 0 1 0 1-.5h.4v1.7h-.4c-.1-.6-.4-.6-.9-.6h-4.8v4.7c0 2.1.5 2.2 2.1 2.2H47c1.9 0 2.4 0 2.6-1.6h.4v2.4H38.9v-.4c.6-.1 1.1 0 1.1-1V46.7zM17.8 40.3h.4l1.2-3h-.5v.1c-.3.7-.7.7-1.5.7H2.1c-.5 0-.8 0-1-.1-.4-.1-.5-.7-.5-.7H0l1.2 3h.4l-.1-.6c0-.5.5-.6 1.1-.6h5.6v19.2c0 1.6-.3 1.7-1.6 1.8h-.1v.4h6.6v-.4H13c-.8 0-1.1-.1-1.3-.3-.3-.3-.3-.8-.3-1.8V39.1h5.7c.6 0 1 0 .9 1.1l-.2.1z"/>
+        <g class="logo__crest" fill="#501B4A">
+            <path d="M97.8 20.2c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.2-.3-.3-.3zM97.8 21.7c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.2-.3-.3-.3zM98.4 20.8c-.2 0-.3.3-.3.5s.1.4.3.3c.2 0 .3-.3.3-.5s-.1-.3-.3-.3zM97.1 21.1c-.2 0-.3.3-.3.5s.2.4.3.3c.2 0 .3-.3.3-.5.1-.2-.1-.4-.3-.3zM130.6 20.2c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5s.2-.3.3-.3zM130.6 21.7c.2 0 .3.3.3.5s-.1.4-.3.3c-.2 0-.3-.3-.3-.5s.2-.3.3-.3zM130 20.8c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5s.1-.3.3-.3zM131.3 21.1c.2 0 .3.3.3.5s-.2.4-.3.3c-.2 0-.3-.3-.3-.5-.1-.2.1-.4.3-.3zM118.6 22.9l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2l-.6.3c-.5-.4-1-.5-1.6-.6-.4 0-.9.1-1.3.2-.3.1-.5.2-.7.4-.5-.4-1.1-.6-1.7-.6-.5 0-1.1.1-1.4.5-.2.3-.3.5-.3.9 0 .3.2.7.4.9.3.3.7.5 1.2.4.7 0 1.3-.3 1.7-.8.5.6 1.2.9 1.9.9.6 0 1.2-.1 1.8-.7.5.5 1.1.7 1.8.7.6 0 1.1-.1 1.8-.7.5.5 1 .7 1.7.7.6 0 1.1-.1 1.8-.7.5.5 1 .7 1.7.7.6 0 1.1-.1 1.8-.7.5.5 1.1.7 1.7.7.4 0 .8-.2 1-.5.2-.2.3-.5.3-.9 0-.8-.8-1.3-1.4-1.3-.6-.1-1.3.1-1.8.5-.5-.4-1.1-.6-1.7-.6-.2.3-.7.3-1.1.5zm-14.1 1.7c-.2-.2-.2-.4-.2-.6 0-.3.1-.5.3-.6.2-.2.6-.3 1-.3.6.1 1.1.4 1.6 1l-.3.3c-.1.1-.3.1-.6.1-.3-.1-.6-.2-.8-.4v.3c0 .2 0 .4.1.5v.1h-.1c-.5-.1-.8-.2-1-.4zm4.8.3c-.3-.1-.6-.2-.8-.5l-.3-.3-.6-.6h.1c.1-.1.2-.1.3-.1.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.2-.1.1c-.4.2-1 0-1.4-.4v.3c-.2.1-.2.3-.2.5zm2.9-.5l-.3-.3c-.2-.2-.4-.5-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.1-1 0-1.3-.5v.3c0 .2 0 .3.1.4v.1h-.2c-.2 0-.5-.1-.7-.4zm3.5 0l-.3-.3-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.1-1 0-1.3-.5v.3c0 .2 0 .3.1.4v.1h-.2c-.2 0-.4-.1-.7-.4zm3.5 0l-.3-.3c-.2-.2-.4-.5-.7-.7h-.1l.3-.1c.5-.2 1-.2 1.2-.2.4 0 .8.2 1.1.4.2.2.4.4.5.6l.2.3-.1.1c-.4.2-1 0-1.3-.4v.3c0 .2 0 .3.1.4v.1h-.2c-.2-.1-.4-.2-.7-.5zm4.1.4c-.2-.1-.4-.2-.6-.4-.2-.1-.3-.3-.4-.4l-.5-.5h.1c.4-.2 1-.4 1.4-.3.6.1 1 .4 1 .9 0 .2 0 .4-.1.6-.3-.1-.6-.3-.7-.5v.3c-.2.1-.2.2-.2.3zM119.8 17c.1-.4.2-.9.4-1.4.2-.7.4-1.3.6-1.9.5-2 .7-3.4.6-4.5V9c0-.4-.1-.7-.2-1-.1-.6-.3-1.3-.3-1.3l-.5-1.2-1.5-2.4.3-.3c.9-.8.4.6 3.8.6-.6-.2-1.3-.8-1.8-1.3-.7-.7-.8-1-1.8-.9-.6 0-1.1-.2-1.6 0-.3.1-.5.3-.6.6-.6-.2-1.1-.4-1.7-.5-1.3-.3-2.6-.2-4-.2-.5 0-1.1 0-1.5.2-.5.2-.8.7-1.3 1-.4.3-.7.6-1.2.7-.5-.1-1 0-1.5 0-1.3.2-2.6.7-3.9 1-.3.1-1.4 0-1.5.4-.1.1-.1.4 0 .6.1.3.2.4.5.6.8.7 1.7 1.2 2.7 1.3.5.1.6.4 1.1.5s1.1.1 1.7.1 1.2.2 1.8.2c.6 0 1.2-.1 1.7-.1h.3c.4 0 1.1.2 2.2.5.7.2 1.3.8 1.3 1.8 0 .5-.1 1-.3 1.3 0 .1-.1.1-.2.2-2 2.1-2.8 3.3-3.5 5-.1.2-.2.4-.3.5-.1.2-.1.3-.2.4l-.3.6c-.9 1.7-2.3 2.1-3.8 1.6.3.9.9 1.7 2.7 1.7 1.5 0 2.8-.7 3.8-1.9v.4c-.1.4-.3.7-.6 1 .8-.3 1.5-.6 2.1-1.1.3.6.8 1.2 1.6 1.7.4-.3.9-.9 1.3-1.6.5.4 1.1.6 1.8.9-.3-.2-.4-.6-.5-1v-.3c.7 1.4 1.9 2.1 3 2.1 1.4 0 2.3-.8 2.5-1.4-1.5.2-3.3-.8-3.2-3zm.7 3.6c-.8 0-1.9-.5-2.6-1.8l-.6-1.3-.3 1.5v.4l-.6-.3-.4-.3-.1.2c-.5-.4-.9-.8-.7-1.5-.2.3-.4.7-.3 1-.1-.3-.4-.7-.4-1s.3-.7.4-1c-.3.3-.7.6-.8 1 0-1 .9-1.3 1.5-2-.5.2-1.1.5-1.4 1.1.5-1.1 1.6-1.5 2.4-2.3-.7.3-1.3.9-2.1.9.5-.3 1.1-.6 1.6-1 .6-.4 1-1 1.5-1.4-.5.4-1.2.8-1.9 1 .9-.5 1.8-1.6 2.2-2.6-.5.9-1.4 1.6-2.1 2.2-.8.6-1.6 1.1-2.3 1.8-.5.5-1 1.1-1.1 1.9 0 .3.1 1-.1 1.5v-.5l-.8.9c-.9 1.1-2.2 1.7-3.5 1.7-.7 0-1.2-.1-1.5-.3.6.1 1.2 0 1.9-.3 1.2-.4 2-1.5 2.7-2.5-.5.3-.9.7-1.2 1 .4-.9 1.2-1.5 1.7-2.3-.4.3-.8.5-1.1.9.6-.9 1.4-1.6 2.1-2.3-.6.1-1.1.6-1.5.9.5-.7 1.4-1.6 2.2-1.9-.7.2-1.3.5-1.8.9.5-.5 1-1.1 1.5-1.6.5-.2 1.4-.4 1.6-.8-.3.1-.5.2-.7.3.1-.1.3-.2.4-.3h.1c.4-.2 1.1-.5 1.3-1-.4.2-.9.5-1.4.5.4-.3.9-.5 1.3-.9.6-.5 1.1-1 1.5-1.5-.6.5-1.6 1.1-2.4 1.1.9-.4 1.7-1.2 2.2-2-.4.4-1.6 1-2.1.7.6-.2 1.1-.7 1.5-1.1-.4.2-1 .5-1.5.4.7-.4 1.4-.6 2-1.2-.4.2-.9.4-1.3.5-.1 0-.2 0-.3.1.4-.2.7-.4 1-.6-.3.2-.9.4-1.3.4.4-.2.6-.2 1-.5.3-.3.6-.6.6-1.2-.4 1-1.1 1.2-1.7 1.4.1-.1.2-.3.2-.5-.3.2-.8.6-1.2.5.2 0 .4-.5.2-.7.1.4-.5.7-.8.7.3-.3.2-.6 0-.8.2.4-.3.5-.5.7.3-.2.1-.5-.2-.7.2.3-.1.5-.4.7.2-.3 0-.5-.3-.6.3.3-.2.5-.4.6.1-.3.1-.6-.2-.7.1.2 0 .5-.2.6 0-.2-.1-.3-.3-.4-.1-.1-.2-.1-.3-.1H110.1c.1 0 .5.2.5.5 0 .2-.1.3-.3.5h-1.1s-.5.1-.8 0c-.3 0-.5-.1-.8-.1-.3-.1-.7-.1-1-.1h-.2c-.4 0-.9 0-1.3-.1-.1 0-.1 0-.2-.1h.3c.5-.1 1-.1 1.5-.1h1.6c.3 0 .6-.1.9-.1H109.8c-.3-.2-.7-.2-1.1-.2h-1.3c-.5 0-1 .1-1.6 0-.4 0-1.1 0-1.6-.1-.1 0-.2-.1-.3-.1-.6-.1-1.1-.3-1.7-.6.2 0 .4-.1.7-.3.3-.2 1.5-.9.4-.9-.4 0-.9 0-1.3-.1h.3l1.5-.4 2.4-.6.8-.1.7-.1c.5-.1.9-.4 1.3-.7l.2-.1.5-.4c.2-.2.5-.4.7-.5.3-.2.8-.1 1.2-.1h1.1c1 0 2 0 2.9.2.5.1 1.1.3 1.7.5l.3.1.2-.3c.1-.2.2-.3.4-.4.3-.1.5-.1.8 0h.7c.7 0 .8 0 1.2.5l.2.2.4.4c-.5-.1-.8-.3-1-.4-.4-.2-.8-.4-1.4.1-.1.1-.3.3-.4.5l-.3-.3.2.2c.5.7 1.3 2.2 1.4 2.3 0 .1.4 1.2.5 1.2.2.5.2.9.3 1.2V8c.1.3.1.6.1.9v.7c0 1.1-.2 2.4-.6 3.9-.2.6-.4 1.2-.6 1.9-.2.5-.3 1-.4 1.5v.1c0 1.2.4 2.2 1.3 2.7.4.3.9.5 1.3.5-.4.3-.8.4-1.4.4zM101.7 4.9c.2-.1.6-.1.9 0-.1.2-.7.1-.9 0z"/>
+            <path d="M107.4 3.8c-.4.1-.9.2-1.4.3-.7.2-.7.3-1 .5.4 0 1 .1 1.4 0-.2 0-.4-.1-.5-.2.7.1 1.3.1 2 0h-.8c.5-.1 1-.4 1.5-.6-.6.1-1.5.1-2.1.4.3-.2.6-.3.9-.4zM112.2 1.9c-.2 0-.4-.1-.6-.1-.2-.1-.3-.1-.5-.1h-.5c-.2 0-.4 0-.5.1s0 .2-.1.3c-.1.2-.8 1.3-1.4 1.4 1.1 0 1.7.6 1.7.6l-.3-.5h.3c.1 0 .1.1.2.1 0 0 0 .1.1.1l.1.2c.3.4.5.8 1 1 .8.3 1.6.3 2.4.1-.3 0-.6 0-.8-.1.5 0 1-.3 1.4-.6-.5 0-1.1.2-1.6.2.3-.3.9-.4 1.3-.5-.4-.1-.8.1-1.2 0 .4-.4 1.5-.1 1.7-.5h-2.3c.4-.3 1-.4 1.5-.4-.5-.1-1.1 0-1.5.1.3-.2.6-.2.9-.3-.3-.1-.8 0-1.2 0h-.2c-.4-.2-.9-.7-1.1-.9h.1c.2 0 .4-.1.6 0 .3.1 1.2.5 1.5.3-.1-.1-.3-.1-.4-.3l2.1.3c-.2-.1-.6-.2-.7-.4.5.2 1.1.3 1.6.5-.2-.2-.6-.3-.7-.4.6.2 1.3.3 1.9.4-.6-.4-1.6-.7-2.4-.7-.9 0-1.6.1-2.4.1zm-1.7.6c-.1.1-.2.2-.2.4s0 .3.1.4l.2.2-.1.1s-.1 0-.1-.1h-.1s-.3-.3-.3-.6.1-.5.3-.6c.2-.1.3-.1.3-.1l.1.2c.1 0-.1 0-.2.1zM134.3 22.5c0-.7-.2-1.3-.6-1.8-.8-1.1-2.2-1.6-3.9-2.3l-.7-.3c-.6-.2-1.2-.5-1.6-.8.3-.1.8-.2 2 .1 2.9.6 3.6-.3 4.2-1.6v-.2c-.1-1.5-.2-2.1.1-4.1l.2-1.5-.6 1.3c-.5 1.1-.9 2-3.7 1.4-2.4-.5-3.4.3-3.8.8-.3.4-.5.9-.4 1.5v.1c.1 1.5.1 2.4.1 3.1 0 1.1 0 1.6.5 2.6s1.5 1.5 2.8 2.2l.2.1c.4.2.8.4 1.2.5.7.3 1.3.6 1.8.9-1.5.7-3.3 1.4-5.3 1.9-5 1.4-9.4 2.1-12.5 2.1-3.3 0-7.7-.7-12.8-2.1-1.9-.5-3.6-1.3-5-1.9.5-.4 1.1-.6 1.8-.9.4-.2.8-.3 1.2-.5l.2-.1c1.3-.6 2.3-1.2 2.8-2.2s.5-1.5.5-2.6v-3.1c.1-.6-.1-1.1-.4-1.6-.4-.5-1.4-1.3-3.8-.8-2.7.6-3.1-.3-3.7-1.4l-.6-1.3.2 1.5c.3 2 .2 2.6.1 4.1v.2c.6 1.3 1.3 2.3 4.2 1.6 1.2-.3 1.8-.2 2.1-.1-.4.3-1 .5-1.6.8l-.7.3c-1.7.6-3.1 1.1-3.9 2.3-.4.5-.6 1.1-.6 1.7.1 2.3.1 3.7 0 4.5v.6c0 1.1.7 2.2 1.8 2.7h.1c1.6.8 3.6 1.5 5.4 2 5.2 1.4 9.5 2.1 12.8 2.1 3.7-.1 8.1-.8 12.8-2.1 1.8-.5 3.8-1.3 5.4-2h.1c1.1-.5 1.8-1.6 1.8-2.7v-.6c-.2-.7-.3-2-.2-4.4zm-8-8c.1-.4.4-.7.8-1 .2-.1.4-.2.6-.2.5-.1 1.2 0 1.9.1 2.1.5 3 .1 3.6-.6-.3.8-1 1-1.6 1.1.5.1.9.1 1.4-.1-.3.4-.5.5-1.1.7.4.1.6.2 1.2 0-.4.5-.8.6-1.6.7.6 0 1.2 0 1.6-.2-.4.4-.7.4-1.2.6.3.1.6.1 1 0-.3.3-.8.7-1.3.7.4 0 .9 0 1.3-.2-.2.4-1 .6-1 .6.3.1.6.1.8 0-.5.4-1.3.6-2.9.2-1.3-.3-2.1-.3-2.6.1l-.2-.2v-.1c.1-.1.1-.2.2-.2.2-.3.6-.6 1-.8-1.4.6-2.1.7-.5-.5-.5.2-.9.3-1.2.6.2-.6.6-1.1 1.3-1.5-.6.2-1.1.4-1.5.7.1-.4.4-.8.9-1.1-.4.3-.7.4-.9.6zm4.1 8.9c-.4-.2-.8-.3-1.2-.5l-.2-.1c-1-.5-1.8-.9-2.3-1.5.3.1.6.2 1 .2-.5-.2-.9-.6-1.2-1 .2.1.5.1.9.2-.6-.2-.9-.5-1.1-.9.4.3 1 .4 1.6.5-.8-.3-1.3-.7-1.6-1.2.4.2.8.3 1.3.4-.7-.3-1.2-.7-1.5-1.3.4.4 1.2.6 1.9.7-1.2-.4-1.6-1-1.9-1.9.5.7 1.4 1.3 2.8 1.8l.7.3c1.7.6 3 1.1 3.7 2.1l.3.6c-.3-.3-.7-.5-1.2-.7.4.3.7.6.9 1.1-.2-.1-.5-.2-.8-.3.5.3.8.7.9 1.1-.3-.3-.9-.5-1.5-.7.7.4 1.1.9 1.3 1.5-.3-.3-.7-.5-1.2-.6 1.6 1.1.9 1.1-.5.5.5.3.9.6 1.1 1-.1.1-.2.1-.3.2-.4-.9-1.1-1.2-1.9-1.5zm-31.7-6.3c-1.6.4-2.4.2-2.9-.2h.8s-.9-.2-1.1-.6c.4.2.8.2 1.3.2-.5-.1-1-.4-1.3-.7.4.1.6.1 1 0-.5-.2-.8-.2-1.2-.6.4.2 1 .2 1.6.2-.8-.1-1.2-.3-1.6-.7.5.2.7.1 1.2 0-.6-.2-.8-.3-1.1-.7.6.2.9.2 1.4.1-.6-.1-1.3-.3-1.6-1.1.6.7 1.5 1.1 3.6.6.7-.2 1.4-.2 1.9-.1.2 0 .4.1.6.2.4.3.7.5.8 1-.2-.1-.5-.3-.9-.4.5.3.8.7.9 1.1-.3-.3-.9-.5-1.5-.7.7.4 1.1.9 1.3 1.5-.3-.3-.7-.5-1.2-.6 1.6 1.1.9 1.1-.5.5.5.3.8.5 1 .8.1.1.2.3.2.3-.1.1-.2.1-.2.2-.3-.6-1.2-.6-2.5-.3zm-3.7 4c.8-1 2-1.5 3.7-2.1l.7-.3c1.3-.5 2.2-1.1 2.8-1.8-.3.8-.7 1.4-1.9 1.9.7-.1 1.5-.3 1.9-.7-.3.6-.7 1-1.5 1.3.5-.1.9-.2 1.3-.4-.3.5-.8 1-1.6 1.2.6-.1 1.2-.2 1.6-.5-.2.4-.5.7-1.1.9.4-.1.7-.1.9-.2-.3.4-.7.8-1.2 1 .4 0 .7-.1 1-.2-.5.6-1.3 1-2.3 1.5l-.2.1c-.4.2-.8.4-1.2.5-.8.3-1.5.7-2.1 1.2-.1-.1-.2-.1-.3-.2.2-.3.6-.7 1.1-1-1.4.6-2.1.7-.5-.5-.5.2-.9.4-1.2.6.2-.6.6-1.1 1.3-1.5-.6.2-1.1.4-1.5.7.1-.4.4-.8.9-1.1-.4.1-.6.2-.8.3.2-.4.5-.8.9-1.1-.5.2-.9.4-1.2.7.3 0 .4-.2.5-.3zm37.3 8.6s-.1.1 0 0c-1.6.8-3.6 1.5-5.4 2-4.7 1.3-9.1 2-12.7 2.1-3.3 0-7.6-.6-12.7-2.1-1.8-.5-3.8-1.2-5.4-2H96c-.9-.4-1.5-1.3-1.5-2.2V27c0-.6.1-1.5 0-2.9.3.4.7.8 1.3 1h.2c1.5.6 3.3 1.4 5.3 2 5.1 1.4 9.5 2.2 12.9 2.2 3.2 0 7.6-.7 12.6-2.1 2-.5 3.9-1.3 5.5-2h.2c.5-.2 1-.6 1.3-1v3.4c0 .8-.6 1.7-1.5 2.1z"/>
+            <path d="M119.4 12.1c.1-.2.2-.5.3-.7-.2.2-.4.4-.6.5.2-.3.3-.6.5-1 .1-.3.1-.6.1-1 0-.2-.1-.5-.4-.8.4.9.1 1.4-.3 2.5-.1.2-.3.8-.5 1-.2.4-.5.8-.7 1.2-.4.7-.6 1.6-.4 2.4.1.4.2.6.4.9.2.2.4.5.7.7-.1-.1-.1-.2-.1-.3-.1-.2-.2-.4-.2-.6v-.4c.1-.4.3-.8.4-1.2-.4.1-.8.7-.8 1.1-.1-.5 0-.9.2-1.3.2-.5.7-.9.9-1.3-.3.1-1 .6-1.2.9 0-.4.6-1 .9-1.3.2-.3.5-.7.7-1-.3.1-.5.4-.8.5.4-.3.7-.5.9-.8zM98.2 29.4v-.2h-.1c-.1 0-.1-.1-.1-.1v-1.6c.2.1.2.1.3.2.1.1.2.2.2.4 0 .1 0 .2-.1.2-.1.1-.2.1-.2 0h-.1v.1h.1c.2.1.4.1.5 0s.2-.2.2-.4c0-.5-.4-.6-.6-.7h-.1l-.6-.2v.2h.1c.1 0 .1.1.1.1V29.1h-.1v.2l.5.1zM101 29.8v.1c0 .2-.1.2-.3.2l-.2-.1c-.2-.1-.3-.1-.3-.3v-1.4s0-.1.1-.1h.1V28c-.2-.1-.4-.1-.7-.2v.2h.1s.1 0 .1.1v1.6s0 .1-.1.1h-.1v.2c.4.1 1 .3 1.4.4l-.1-.6zM101.9 30.4c0 .1-.1.1-.1.1h-.1v.2c.2 0 .5.1.5.1v-.2h-.1v-.1l.1-.3.7.2.1.4v.1h-.1v.2c.3.1.7.2.7.2v-.2h-.1c-.1 0-.1-.1-.1-.2l-.7-2h-.1c0-.2-.7 1.5-.7 1.5zm.7-1s.2.7.2.8l-.5-.1c0-.1.3-.7.3-.7zM113.1 32.4l.1-1.7c0-.1 0-.1-.1-.1h-.1v-.2h1.3v.4h-.1v-.1c0-.1-.1-.1-.2-.1h-.5v.7h.5v-.1h.1v.4h-.1v-.1h-.5v.6c0 .2 0 .2.2.2h.3c.2 0 .2 0 .3-.1v-.1h.1v.4H113l.1-.1zM104.4 30.5c.1.6.6 1 1.2 1 .3 0 .4 0 .6-.1l.2-.3-.1-.1c-.1.1-.3.2-.6.2-.4 0-.8-.3-.8-.9 0-.5.2-.9.7-.9.4 0 .6.3.6.3h.2l-.1-.4h-.1c-.2-.1-.3-.2-.6-.2-.8.2-1.3.8-1.2 1.4zM108.8 30.5V30c-.5-.1-1.3-.2-1.3-.2v.2h.1c.1 0 .1 0 .1.1v1.6s0 .1-.1.1h-.1v.2c.5.1 1 .2 1.4.2v-.4h-.1v.1c0 .1-.1.1-.2.1l-.4-.1c-.2 0-.2-.1-.2-.3v-.5l.5.1v.1h.1v-.4h-.1v.1c-.1 0-.5-.1-.5-.1v-.7l.5.1c.1 0 .1 0 .3.2l-.1.1.1-.1zM112.1 32.2s-.1.1-.2.1-.2-.1-.3-.2c-.1-.2-.4-.7-.5-.8.2-.1.4-.2.4-.5 0-.4-.3-.6-.8-.6l-.6-.1v.2h.1s.1 0 .1.1V32c0 .1 0 .1-.1.1h-.1v.2c.2 0 .4.1.6.1v-.2h-.1s-.1 0-.1-.1v-.7h.2s.3.6.5.8c.1.2.3.3.5.3s.4-.1.4-.1v-.2zm-1.5-1.7s.1 0 0 0c.3 0 .5.2.5.5 0 .1-.1.4-.4.3h-.1v-.8zM117.5 30.5h.3c.1.1.2.2.2.3 0 .2-.2.4-.4.4h-.1v.2h.1c.3 0 .5-.1.6-.2s.1-.3.1-.4c0-.2-.1-.3-.1-.3-.2-.2-.5-.1-.6-.1l-.6.1v.2h.1s.1 0 .1.1v1.6s0 .1-.1.1h-.1v.2l.7-.1v-.2h-.1c-.1 0-.1 0-.1-.1-.1-.1-.1-1.8 0-1.8zM120.8 31.9v-.6h-.2c0 .3-.1.3-.2.4h-.4V30.1c0-.1 0-.1.1-.1h.1v-.2l-.7.1v.2h.1s.1 0 .1.1v1.6c0 .1 0 .1-.1.1h-.1v.2c.5-.1.8-.1 1.3-.2zM122.1 31.1c.1 0 .7-.1.7-.1l.1.3v.1h-.1v.2l.6-.1v-.2h-.1c-.1 0-.1 0-.1-.1l-.7-1.7h-.1l-.7 2c0 .1-.1.1-.1.2h-.1v.2l.5-.1v-.2h-.1v-.1l.2-.4zm.3-1l.3.7s-.5.1-.6.1c.1-.1.3-.8.3-.8zM125.3 28.8c-.7.2-1.1.7-1.1 1.3 0 .6.6 1 1.2.8.3-.1.4-.2.6-.3l.2-.4h-.2c-.1.1-.2.4-.6.5-.6.1-.9-.2-.9-.6 0-.5.2-.9.7-1.1.4-.1.6.1.6.1h.1l-.1-.3h-.1c0-.1-.1-.1-.4 0zM128.4 30v-.5h-.1v.1c0 .2-.1.2-.3.3l-.3.1c-.1 0-.2 0-.2-.2v-.5s.4-.1.5-.2h.1v.1h.1v-.4h-.1v.2c-.1 0-.4.1-.5.2v-.7l.5-.2c.1 0 .1 0 .1.1v.1h.1V28c-.4.1-.8.3-1.3.4v.2h.1s.1 0 .1.1v1.6c0 .1 0 .1-.1.1h-.1v.2c.6-.3 1-.5 1.4-.6zM130.9 27v.4l-.1.1v-.1s0-.1-.1-.1c-.1.1-.4.1-.4.1V29c0 .1 0 .1.1.1h.1v.2l-.7.3v-.2h.1c.1 0 .1-.1.1-.1v-1.6s-.2.1-.4.1c-.1 0-.1.1-.1.1v.1l-.2.1v-.4c.5-.3.9-.5 1.6-.7z"/>
+        </g>
+    </svg>
+</a>
+        <nav role="navigation" aria-label="Primary Navigation" class="site-menu-wrapper js-site-menu-wrapper">
+    <ul class="site-menu js-site-menu">
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/rooms-and-suites/" class="site-menu__link" target="_self">Rooms &amp; Suites</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/restaurants-bars/" class="site-menu__link">Restaurants &amp; Bars</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://shop.the-connaught.co.uk/" class="site-menu__link" target="_blank">The Connaught Shop</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/aman-spa/" class="site-menu__link" target="_self">Aman Spa</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/meetings-events/" class="site-menu__link">Meetings &amp; Events</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/special-offers/" class="site-menu__link" target="_self">Special Offers</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/concierge-and-services/" class="site-menu__link" target="_self">Concierge &amp; Services</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/an-update-from-the-connaught/" class="site-menu__link site-menu__link--text-small" target="_self">Staying Safe</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/whats-new/" class="site-menu__link site-menu__link--text-small">What’s New</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://theconnaught.wearegifted.co.uk/" class="site-menu__link site-menu__link--text-small" target="_blank">Gift Vouchers</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/about-the-hotel/" class="site-menu__link site-menu__link--text-small">About the hotel</a>
+            </li>
+            <li class="site-menu__item" >
+                <a href="https://www.the-connaught.co.uk/contact-us/" class="site-menu__link site-menu__link--text-small">Contact us</a>
+            </li>
+            </ul>
+</nav>
+
+        <button class="btn btn--reserve js-room-button" 
+        data-chain-id="C00769"
+        data-hotel-id="H12216">
+    Book
+    <svg role="img" class="icon icon-calendar">
+        <use xlink:href="/Static/images/sprites/symbol.svg#calendar"></use>
+    </svg>
+</button>
+
+
+
+    </header>
+
+</div>
+
+
+        <!-- start: main -->
+        <div class="main" id="main" role="main">
+            <h1 class="visually-hidden">Page Not Found</h1>
+
+<div class="full-page-panel image-promo block animate image-promo--with-text">
+
+    
+
+        <div class="image-promo__img picturefill-background">
+            <span data-src="https://www.the-connaught.co.uk/globalassets/page-not-found.jpg?w=680&scale=both&mode=crop&retinaimagepromoblock=false" data-media="(max-width: 768px)"></span>
+            <span data-src="https://www.the-connaught.co.uk/globalassets/page-not-found.jpg?w=1360&scale=both&mode=crop&retinaimagepromoblock=true" data-media="(max-width: 768px) and (-webkit-min-device-pixel-ratio: 2)"></span>
+            <span data-src="https://www.the-connaught.co.uk/globalassets/page-not-found.jpg?w=800&scale=both&mode=crop" data-media="(min-width: 768px)"></span>
+            <span data-src="https://www.the-connaught.co.uk/globalassets/page-not-found.jpg?w=1200&scale=both&mode=crop" data-media="(min-width: 992px)"></span>
+            <span data-src="https://www.the-connaught.co.uk/globalassets/page-not-found.jpg?w=1900&scale=both&mode=crop" data-media="(min-width: 1280px)"></span>
+        </div>
+
+
+        <div class="image-promo__content-wrapper">
+            <div class="image-promo__content">
+                    <h3 class="image-promo__header">
+                        We’re sorry, we can’t seem to find the page you’re looking for
+                    </h3><!-- /.image-promo__header -->
+                                    <div class="image-promo__text">
+                            <p>
+                                It appears to have been moved, deleted or does not exist
+                            </p>
+                    </div><!-- /.image-promo__text -->
+
+
+                    <div class="image-promo__btn-wrapper">
+                        <a href="/" title="VISIT OUR HOMEPAGE" class="btn btn--primary image-promo__btn">
+                            VISIT OUR HOMEPAGE
+                        </a>
+                    </div>
+            </div><!-- /.image-promo__content -->
+        </div><!-- /.image-promo__content-wrapper -->
+
+</div><!-- /.full-page-panel image-promo block animate  -->
+
+            
+
+        </div>
+        <!-- end: main -->
+    </div>
+
+    
+
+<div class="full-page-panel footer-wrapper">
+    <footer class="footer" id="footer">
+        <div class="footer-links">
+            <div class="footer-links__col">
+        <h3 class="js-mobile-accordion-trigger mobile-accordion__trigger">
+            Experience
+        </h3>
+        <div class="js-mobile-accordion-content mobile-accordion__content--alt">
+            <ul class="link-list">
+                    <li class="link-list__item">
+                        <a href="/rooms-and-suites/" class="link-list__link" title="Rooms &amp; Suites">
+                            Rooms &amp; Suites
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/restaurants-bars/" class="link-list__link" title="Restaurants &amp; Bars">
+                            Restaurants &amp; Bars
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/restaurants-bars/afternoon-tea/" class="link-list__link">
+                            Afternoon Tea
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/aman-spa/" class="link-list__link" title="Aman Spa">
+                            Aman Spa
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/meetings-events/" class="link-list__link" title="Meetings &amp; Events">
+                            Meetings &amp; Events 
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/special-offers/" class="link-list__link" title="Special offers">
+                            Special offers
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="https://www.reservations-page.com/C00769/H12216/ova.aspx?_ga=2.231364566.879945601.1505116728-524665815.1504518273" class="link-list__link" target="_blank" title="My Reservations">
+                            My Reservations
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <h3 class="js-mobile-accordion-trigger mobile-accordion__trigger">
+            Gifts
+        </h3>
+        <div class="js-mobile-accordion-content mobile-accordion__content--alt">
+            <ul class="link-list">
+                    <li class="link-list__item">
+                        <a href="https://shop.the-connaught.co.uk/" class="link-list__link" target="_blank" title="The Connaught Shop">
+                            The Connaught Shop
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="https://theconnaught.wearegifted.co.uk/" class="link-list__link" target="_blank" title="Gift Vouchers">
+                            Gift Vouchers
+                        </a>
+                    </li>
+            </ul>
+        </div>
+            </div>
+            <div class="footer-links__col">
+        <h3 class="js-mobile-accordion-trigger mobile-accordion__trigger">
+            About
+        </h3>
+        <div class="js-mobile-accordion-content mobile-accordion__content--alt">
+            <ul class="link-list">
+                    <li class="link-list__item">
+                        <a href="/about-the-hotel/" class="link-list__link" title="About us">
+                            About us
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="/contact-us/" class="link-list__link" title="Contact us">
+                            Contact us
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="https://view.publitas.com/maybourne-hotel-group/the-connaught-magazine/" class="link-list__link" target="_blank" title="The Connaught Magazine">
+                            The Connaught Magazine
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <h3 class="js-mobile-accordion-trigger mobile-accordion__trigger">
+            Maybourne Hotel Group
+        </h3>
+        <div class="js-mobile-accordion-content mobile-accordion__content--alt">
+            <ul class="link-list">
+                    <li class="link-list__item">
+                        <a href="http://www.claridges.co.uk/" class="link-list__link" target="_blank" title="Claridge&#39;s">
+                            Claridge&#39;s
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="http://www.the-berkeley.co.uk/" class="link-list__link" target="_blank" title="The Berkeley">
+                            The Berkeley
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="http://www.maybourne.com/" class="link-list__link" target="_blank" title="Maybourne Hotel Group">
+                            Maybourne Hotel Group
+                        </a>
+                    </li>
+                    <li class="link-list__item">
+                        <a href="https://www.maybournebeverlyhills.com/" class="link-list__link" target="_blank" title="The Maybourne Beverly Hills">
+                            The Maybourne Beverly Hills
+                        </a>
+                    </li>
+            </ul>
+        </div>
+            </div>
+                <div class="footer-links__social">
+                    <div class="footer-pod social-list-pod">
+                        <h3>Follow Us</h3>
+                        <ul class="social-list">
+                               <li class="social-list__item">
+                                   <a href="https://www.instagram.com/theconnaught/" class="social-list__link" title="Instagram" target="_blank">
+                                        <svg role="img" aria-label="Instagram" class="social-icon social-icon--instagram">
+                                            <title>Instagram</title>
+                                            <use xlink:href="/Static/images/sprites/symbol.svg#instagram"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                               <li class="social-list__item">
+                                   <a href="https://www.facebook.com/theconnaught" class="social-list__link" title="Facebook" target="_blank">
+                                        <svg role="img" aria-label="Facebook" class="social-icon social-icon--facebook">
+                                            <title>Facebook</title>
+                                            <use xlink:href="/Static/images/sprites/symbol.svg#facebook"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                               <li class="social-list__item">
+                                   <a href="https://twitter.com/TheConnaught" class="social-list__link" title="Twitter" target="_blank">
+                                        <svg role="img" aria-label="Twitter" class="social-icon social-icon--twitter">
+                                            <title>Twitter</title>
+                                            <use xlink:href="/Static/images/sprites/symbol.svg#twitter"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                               <li class="social-list__item">
+                                   <a href="https://www.tripadvisor.co.uk/Hotel_Review-g186338-d187991-Reviews-The_Connaught-London_England.html" class="social-list__link" title="Trip Advisor" target="_blank">
+                                        <svg role="img" aria-label="Trip Advisor" class="social-icon social-icon--trip-advisor">
+                                            <title>Trip Advisor</title>
+                                            <use xlink:href="/Static/images/sprites/symbol.svg#trip-advisor"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                    <!-- social list pod -->
+                </div>
+        </div>
+        <div class="footer-misc">
+                <div class="newsletter-pod footer-pod">
+                        <h3>Newsletter Signup</h3>
+                    <div class="newsletter-signup__wrapper">
+                        <form method="POST" action="/newsletter-sign-up/" class="newsletter-signup">
+                            <fieldset>
+                                <legend class="visually-hidden">Newsletter Signup</legend>
+                                <label class="visually-hidden" for="newsletter-email">Newsletter Signup</label>
+                                <input type="email" id="newsletter-email" class="newsletter-signup__input" name="newsletter-email" placeholder="Email address">
+                                <input type="submit" value="sign up" class="btn btn--primary newsletter-signup__submit">
+                            </fieldset>
+                        </form>
+
+                    </div>
+                </div>
+            <div class="find-us-map">
+                <h3>Find us</h3>
+<p><a href="https://www.google.co.uk/maps/place/The+Connaught/@51.510164,-0.1517807,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d7c5af3c89:0x53cd706c26df4d20!8m2!3d51.510164!4d-0.149592" target="_blank" rel="noopener"><img title="Find The Connaught on Google Maps" src="/siteassets/homepage/connaught-map-purple.jpg" alt="The Connaught is located on the corner of Carlos Place and Mount Street in the heart of London's Mayfair" width="459" height="185" /></a></p>
+<p>The Connaught<br />Carlos Place<br />Mayfair<br />London<br />W1K 2AL<a href="tel:+442074997070"><br /></a></p>
+
+            </div>
+                <div class="footer-block">
+
+                        <form id="footer-links-collection" class="footer-links-collection" method="GET">
+                            <fieldset>
+
+                                    <legend class="footer-links-collection__label">
+                                        Some information is available in other languages
+                                    </legend>
+
+                                <label for="language-selector" class="visually-hidden">Language Selector</label>
+
+                                <select id="language-selector" name="language-selector" class="language-selector js-language-selector test">
+                                        <option selected="selected" title="SELECT LANGUAGE">
+                                            SELECT LANGUAGE
+                                        </option>
+                                                                            <option value="/siteassets/factsheets-2020/the-connaught-french-factsheet-2020.pdf" title="Fran&#231;ais">
+                                            Fran&#231;ais
+                                        </option>
+                                        <option value="/siteassets/factsheets-2020/the-connaught-german-fact-sheet-2020.pdf" title="Deutsch">
+                                            Deutsch
+                                        </option>
+                                        <option value="/siteassets/factsheets-2020/the-connaught-russian-fact-sheet-2020.pdf" title="русский">
+                                            русский
+                                        </option>
+                                        <option value="/siteassets/factsheets-2020/the-connaught-chinese-fact-sheet-2020.pdf" title="中文">
+                                            中文
+                                        </option>
+                                        <option value="/siteassets/factsheets-2020/the-connaught-portuguese-fact-sheet-2020.pdf" title="Portugu&#234;s">
+                                            Portugu&#234;s
+                                        </option>
+                                        <option value="/siteassets/factsheets-2020/the-connaught-fact-sheet-2020.pdf" title="English">
+                                            English
+                                        </option>
+                                </select>
+
+                            </fieldset>
+                        </form>
+                </div>
+        </div>
+    </footer>
+
+    <div class="footer-bottom">
+            <ul class="inline-menu">
+                    <li class="inline-menu__item">
+                        <a href="/an-update-from-the-connaught/" title="COVID-19" class="inline-menu__link">
+                            COVID-19
+                        </a>
+                    </li>
+                    <li class="inline-menu__item">
+                        <a href="/privacy-policy/" title="Privacy Policy" class="inline-menu__link">
+                            Privacy Policy
+                        </a>
+                    </li>
+                    <li class="inline-menu__item">
+                        <a href="/ccpa/" class="inline-menu__link">
+                            CCPA
+                        </a>
+                    </li>
+                    <li class="inline-menu__item">
+                        <a href="/cookie-policy/" class="inline-menu__link">
+                            Cookie Policy
+                        </a>
+                    </li>
+                    <li class="inline-menu__item">
+                        <a href="/terms-and-conditions/" class="inline-menu__link">
+                            Terms &amp; Conditions
+                        </a>
+                    </li>
+                    <li class="inline-menu__item">
+                        <a href="/privacy-policy/#modern-slavery-act" title="Modern Slavery Act" class="inline-menu__link">
+                            Modern Slavery Act
+                        </a>
+                    </li>
+            </ul>
+        <p class="copyright">Copyright &copy; Maybourne Hotel Group. 2021 All rights reserved</p>
+    </div>
+    <button id="btnScrollTop" class="btn-scroll-top js-scroll-top">
+        <svg role="img" aria-label="back to js-scroll-top" class="btn-scroll-top__svg">
+            <title>Back to top</title>
+            <use xlink:href="/Static/images/sprites/symbol.svg#chevron-up"></use>
+        </svg>
+    </button>
+</div>
+
+    
+
+<script src="/Static/build/js/libs.js?v=2.5"></script>
+<script src="/Static/build/js/scripts.js?v=2.5"></script>
+    
+
+
+
+    <script type="text/javascript" src="https://dl.episerver.net/13.3.0/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+    <ul class="quick-links">
+        <li class="quick-links__item">
+            <a href="mailto:info@the-connaught.co.uk" class="quick-links__link quick-links__link--mail">
+                <svg role="img" aria-label="Mail us" class="icon icon--mail">
+                    <title>Mail us</title>
+                    <use xlink:href="/Static/images/sprites/symbol.svg#email-icon"></use>
+                </svg>
+            </a>
+        </li><!-- /.quick-links__item -->
+        <li class="quick-links__item">
+            <a href="https://maps.google.com/maps?cid=6038606285184650528" target="_blank" class="quick-links__link quick-links__link--location">
+                <svg role="img" aria-label="Find Us" class="icon icon--location">
+                    <title>Find Us</title>
+                    <use xlink:href="/Static/images/sprites/symbol.svg#location-pin"></use>
+                </svg>
+            </a>
+        </li><!-- /.quick-links__item -->
+    </ul><!-- /.quick-links -->
+</body>
+</html>

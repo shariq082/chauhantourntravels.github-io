@@ -1,0 +1,15 @@
+.icons img{
+    width: 25px;
+    height: 25px;
+    display: inline;
+}
+
+#arr img{
+    width: 150px;
+    height: 80px;
+    filter: grayscale(100%);
+}
+#arr img:hover{
+    cursor: pointer;
+    filter:none;
+}
